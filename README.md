@@ -207,6 +207,6 @@ Emails are triggered after a successful checkout.
 ## Author
 
 **Divya**
-*Software Developer
-*Portfolio: [https://divi363.netlify.app/](https://divi363.netlify.app/)
+Software Developer
+Portfolio: [https://divi363.netlify.app/](https://divi363.netlify.app/)
 
