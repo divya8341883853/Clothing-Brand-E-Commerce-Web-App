@@ -3,7 +3,7 @@
 A fully functional e-commerce web application for a fictional clothing brand, built using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 Users can browse products, search & filter items, manage a cart, register/login, and complete a mock checkout with order confirmation email.
 
----
+
 
 ## Features
 
@@ -62,7 +62,6 @@ Users can browse products, search & filter items, manage a cart, register/login,
   * Products, sizes, quantities
   * Order ID & date
 
----
 
 ## Tech Stack
 
@@ -81,7 +80,6 @@ Users can browse products, search & filter items, manage a cart, register/login,
 * MongoDB + Mongoose
 * Nodemailer (order confirmation)
 
----
 
 ## Project Structure
 
@@ -104,8 +102,6 @@ root/
  └── README.md
 ```
 
----
-
 ## Installation & Setup
 
 ### **1. Clone Repository**
@@ -115,7 +111,6 @@ git clone <repo-url>
 cd clothing-ecommerce
 ```
 
----
 
 ## Backend Setup
 
@@ -141,7 +136,6 @@ EMAIL_PASS=your_email_password
 npm start
 ```
 
----
 
 ## Frontend Setup
 
@@ -158,7 +152,6 @@ npm install
 npm run dev
 ```
 
----
 
 ## Seed Products (Optional)
 
@@ -166,7 +159,6 @@ npm run dev
 node backend/seed/products.js
 ```
 
----
 
 ## Order Confirmation Email
 
@@ -178,7 +170,6 @@ Nodemailer is configured inside:
 
 Emails are triggered after a successful checkout.
 
----
 
 ## API Endpoints (Summary)
 
@@ -204,7 +195,6 @@ Emails are triggered after a successful checkout.
 * POST `/api/orders/checkout`
 * GET `/api/orders/my-orders`
 
----
 
 ## Future Enhancements
 
@@ -213,7 +203,6 @@ Emails are triggered after a successful checkout.
 * Wishlist functionality
 * Product reviews & ratings
 
----
 
 ## Author
 
